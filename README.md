@@ -1,4 +1,4 @@
-# account-control-method
+# Account-control-method
 菅沼弥生，成田惇，西垣正勝，大木哲史
 
 # Abstract
